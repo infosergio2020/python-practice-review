@@ -1,0 +1,1 @@
+{"temperatura": "Temperatura: 7 \u00b0C", "humedad": " Humedad: 11 %"}
